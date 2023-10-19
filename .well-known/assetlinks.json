@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tdevelopers.factjano",
+      "sha256_cert_fingerprints": [
+        "A0:22:1B:B3:74:21:90:68:DF:98:77:D4:E6:77:08:8C:7B:E7:E1:67:59:1D:B6:54:9B:5C:B0:8A:4E:3F:FC:BB"
+      ]
+    }
+  }
+]
