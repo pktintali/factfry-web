@@ -124823,7 +124823,7 @@ n.a=m
 m=n.ga2f()
 m.ga6k(m).sa48(0,A.aF(["Content-Type","application/json"],t.N,t.z))
 m=n.ga2f()
-m.ga6k(m).ei$="http://127.0.0.1:8000/"
+m.ga6k(m).ei$="https://api.studentmitra.in/"
 n.C5()
 return n})
 s($,"brW","u0",()=>A.a([B.n,B.dM.gabi(),B.Q3,B.QD,B.Qa,B.QK,B.R1,B.Q8,B.Q6],t.b))
